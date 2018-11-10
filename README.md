@@ -1,5 +1,7 @@
 # hello-chrome-extension
 
+Please see [https://www.thitiblog.com/blog/8635](https://www.thitiblog.com/blog/8635).
+
 ## Project setup
 ```
 npm install
